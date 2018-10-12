@@ -1,5 +1,11 @@
 # Rewritable tree
 
+https://travis-ci.com/Primetalk/rewritable-tree.svg?branch=feature%2Frewritable-tree
+
+```
+libraryDependencies += "ru.primetalk" %% "rewritable-tree" % "0.1.0"
+```
+
 This library contains some tools for working with 
 immutable data structures represented with algebraic data types.
 These data structures can be thought of as a tree.
